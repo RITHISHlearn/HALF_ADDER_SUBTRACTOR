@@ -1,6 +1,6 @@
-# EXP3:HALF_ADDER_SUBTRACTOR
-# Name: Rahul V
-# Register No:212223040163
+## EXP3:HALF_ADDER_SUBTRACTOR
+## Name: Rahul V
+## Register No:212223040163
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -83,20 +83,20 @@ endmodule
 ```
 
 **RTL Schematic**
-Half Adder
+## Half Adder
 ![Screenshot 2025-04-17 110948](https://github.com/user-attachments/assets/8847e6af-3565-4e28-b0a0-62303248658e)
 
-Half Subtractor
+## Half Subtractor
 ![Screenshot 2025-04-17 113624](https://github.com/user-attachments/assets/0e929cf3-0d69-49ad-90cf-c1f5e08d51d9)
 
 
 
 
 **Output/TIMING Waveform**
-Half Adder
+## Half Adder
 ![Screenshot 2025-04-17 112650](https://github.com/user-attachments/assets/7e1f48c6-2078-4c2e-8b59-2efe67c34f30)
 
-Half Subtractor
+## Half Subtractor
 ![Screenshot 2025-04-17 113821](https://github.com/user-attachments/assets/43992652-4ceb-4aae-a3b0-5fb2af86c82b)
 
 **Result:**
