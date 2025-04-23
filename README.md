@@ -1,6 +1,6 @@
-## EXP3:HALF_ADDER_SUBTRACTOR
-## Name: Rahul V
-## Register No:212223040163
+## EXP3: HALF_ADDER_SUBTRACTOR
+## Name: Rithish.P
+## Register No: 212223230173
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -100,4 +100,5 @@ endmodule
 ![Screenshot 2025-04-17 113821](https://github.com/user-attachments/assets/43992652-4ceb-4aae-a3b0-5fb2af86c82b)
 
 **Result:**
+
 Thus the Half-Adder-and-Half Subtractor-circuit is implemented.
